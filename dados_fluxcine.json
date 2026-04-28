@@ -1,10 +1,11 @@
 [
   {
-    "nome": "Inception",
+    "nome": "Começo",
     "imagem": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/w780/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg",
     "link": "https://link-do-filme",
     "ano": "2010",
-    "genero": "Ficção Científica",
+    "genero": "Ficcao",
     "descricao": "Um ladrão que invade os sonhos das pessoas.",
     "audio": "Dublado",
     "tipo": "FILME"
