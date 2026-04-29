@@ -2,33 +2,29 @@
   {
     "nome": "Começo",
     "imagem": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/w780/s2bT29y0ngXxxu2IA8AOzzXTRhd.jpg",
+    "pano de fundo": "https://image.tmdb.org/t/p/w780/s2bT29y0ngXxxu2IA8A0zzXTRhd.jpg",
     "link": "https://link-do-filme",
     "ano": "2010",
     "genero": "Ficcao",
     "descricao": "Um ladrão que invade os sonhos das pessoas.",
     "audio": "Dublado",
     "tipo": "FILME"
+  },
+  {
+    "nome": "Caderno da Morte",
+    "imagem": "https://image.tmdb.org/t/p/w1280/u878Dny3e6ajNGLeJJcYq9c60SP.jpg",
+    "pano de fundo": "https://image.tmdb.org/t/p/w1280/u878Dny3e6ajNGLeJJcYq9c60SP.jpg",
+    "ano": "2006",
+    "genero": "Animação, Mistério, Ficção Científica e Fantasia",
+    "tipo": "ANIMES",
+    "audio": "dublado",
+    "descricao": "Light Yagami é um aluno brilhante que encontra o Death Note, um caderno deixado por um Shinigami.",
+    "temporadas": [
+      {
+        "numero": 1,
+        "totalEpisodios": 37,
+        "linkEpisodios": "death-note-temporada-1"
+      }
+    ]
   }
 ]
-
-
-
-{
-  "nome": "Death Note",
-  "imagem": "https://image.tmdb.org/t/p/w1280/u878Dny3e6ajNGLeJJcYq9c60SP.jpg",
-  "backdrop": "https://image.tmdb.org/t/p/w1280/u878Dny3e6ajNGLeJJcYq9c60SP.jpg",
-  "ano": "2006",
-  "genero": "Animação, Mistério, Ficção Científica e Fantasia",
-  "tipo": "ANIMES",
-  "audio": "dublado",
-  "descricao": "Light Yagami é um aluno brilhante que encontra o Death Note, um caderno deixado por um Shinigami. Qualquer humano cujo nome seja escrito nele morre. Light jura usar o poder para livrar o mundo do mal, mas será que o Death Note o transformará naquilo que ele combate?",
-  "totalTemporadas": 1,
-  "temporadas": [
-    {
-      "numero": 1,
-      "totalEpisodios": 37,
-      "linkEpisodios": "death-note-temporada-1"
-    }
-  ]
-}
