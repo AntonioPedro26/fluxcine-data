@@ -11,3 +11,21 @@
     "tipo": "FILME"
   }
 ]
+{
+  "nome": "Death Note",
+  "imagem": "https://image.tmdb.org/t/p/w1280/u878Dny3e6ajNGLeJJcYq9c60SP.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/w1280/u878Dny3e6ajNGLeJJcYq9c60SP.jpg",
+  "ano": "2006",
+  "genero": "Animação, Mistério, Ficção Científica e Fantasia",
+  "tipo": "ANIME",
+  "audio": "dublado",
+  "descricao": "Light Yagami é um aluno brilhante que encontra o Death Note, um caderno deixado por um Shinigami. Qualquer humano cujo nome seja escrito nele morre. Light jura usar o poder para livrar o mundo do mal, mas será que o Death Note o transformará naquilo que ele combate?",
+  "totalTemporadas": 1,
+  "temporadas": [
+    {
+      "numero": 1,
+      "totalEpisodios": 37,
+      "linkEpisodios": "death-note-temporada-1"
+    }
+  ]
+}
