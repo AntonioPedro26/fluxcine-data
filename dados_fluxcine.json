@@ -1,15 +1,5 @@
 [
   {
-    "nome": "Começo",
-    "imagem": "https://image.tmdb.org/t/p/w500/9gk7adHYeDvHkCSEqAvQNLV5Uge.jpg",
-    "link": "https://link-do-filme",
-    "ano": "2010",
-    "genero": "Ficção",
-    "descricao": "Um ladrão que invade os sonhos das pessoas.",
-    "audio": "Dublado",
-    "tipo": "FILME"
-  },
-  {
     "nome": "Venganza",
     "link": "https://uqload.is/gbt3fc7341vd.html",
     "tipo": "FILME"
@@ -20,19 +10,8 @@
     "tipo": "FILME"
   },
   {
-    "nome": "Caderno da Morte",
-    "imagem": "https://image.tmdb.org/t/p/w1280/u878Dny3e6ajNGLeJJcYq9c60SP.jpg",
-    "ano": "2006",
-    "genero": "Animação, Mistério, Ficção Científica",
-    "tipo": "ANIMES",
-    "audio": "Dublado",
-    "descricao": "Light Yagami é um aluno brilhante que encontra o Death Note.",
-    "temporadas": [
-      {
-        "numero": 1,
-        "totalEpisodios": 37,
-        "linkEpisodios": "death-note-temporada-1"
-      }
-    ]
+    "nome": "À Dúzia é Mais Barato",
+    "link": "https://mixdrop.top/f/nl16on13sd4n7",
+    "tipo": "FILME"
   }
 ]
